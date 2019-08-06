@@ -17,18 +17,9 @@ if (name == 'JP') {
 }
 
 let name = 'aUTuMN';
-//charAT (0) == method
-// [0] == squarebracket notation
 
-if(name.charAT(0) === name.charAT(0).toUpperCase()) {
-    firstLetter = name.charAT(0) + (name.sliced(1).toLowerCase);
-    console.log(firstLetter;
-    } else {
-    otherLetters = name.charAT(0).toUpperCase() + (name.sliced(1).toLowerCase(1));
-    console.log(otherLetters);
-    }
-    
-
-
-
-
+if (name == 'aUTuMN') {
+    console.log('name.Uppercase') {
+} else {
+    console.log('hey its not written correctly')
+}
