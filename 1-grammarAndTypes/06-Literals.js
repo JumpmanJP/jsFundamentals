@@ -23,4 +23,3 @@ let car = 'Honda';
 
 let decimal = 10.2;
 
-asdf
